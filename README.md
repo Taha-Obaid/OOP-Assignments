@@ -2,6 +2,6 @@ public class main
 {
   public static void main(String[] args)
    {
-     System.out.print(Assalam o Alaikum);
+     System.out.println(Assalam o Alaikum);
    }
 }
