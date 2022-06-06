@@ -22,7 +22,7 @@ public class MethodOverloading
    {
       Scanner S = new Scanner(System.in);
      Addition P = new Addition();
-    System.out.println("\nEnter values of a , b & c");
+    System.out.println("\nEnter values of x , y & z");
      int a = S.nextInt();
      int b = S.nextInt();
      int c = S.nextInt();
